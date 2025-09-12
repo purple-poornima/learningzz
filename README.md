@@ -1,5 +1,5 @@
 # learningzz
 Hello viewers!!
 These are my c programs.
-bay
+well going through from scratch
 
